@@ -15,4 +15,4 @@
 
 # Misc
 
-Mario Fireball needs a "speed" parameter when cloned. It will always use this parameter's value for speed during the first status
+Mario Fireball needs a "speed" parameter when cloned. It will always use this parameter's value for speed during the first status (lowkey Miiswordfighter Wave (from his final smash) could be more useful)
