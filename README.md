@@ -3,8 +3,10 @@
 ## Current Limitations
 
 # Characters that cannot receive new articles
-- Ganondorf
-- Snake
+- Samus / Dark Samus (does not spawn in)
+- Kirby (duh)
+- Snake (Crashes)
+- Mii Gunner (Does not spawn in)
 
 # Articles that cannot be cloned
 - Luigi Fireball
