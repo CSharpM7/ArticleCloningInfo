@@ -7,6 +7,7 @@
 - Kirby (duh)
 - Snake (Crashes)
 - Mii Gunner (Does not spawn in)
+- Steve
 
 # Articles that cannot be cloned
 - Luigi Fireball
@@ -15,8 +16,11 @@
 - Pacman Hydrant
 - Cloud Bladebeam
 
+# Other Limitations
+- Ness/Lucas cannot use articles without original code
+
 # Misc
 
-Most weapons from clones/echoes (ie Luigi, Daisy) can't be cloned
+Most weapons from clones/echoes (ie Luigi, Daisy) and DLC (Plant, Joker, etc) can't be cloned
 Mario Fireball needs a "speed" parameter when cloned. It will always use this parameter's value for speed during the first status (lowkey Miiswordfighter Wave (from his final smash) could be more useful)
 Peach's Toad can be cloned, this also has a flip.prc which makes it great for models
