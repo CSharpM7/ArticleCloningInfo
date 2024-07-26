@@ -3,7 +3,7 @@
 ## Current Limitations
 
 # Characters that cannot receive new articles
-- Samus / Dark Samus (does not spawn in)
+- ~~Samus / Dark Samus (does not spawn in)~~
 - Kirby (duh)
 - Snake (Crashes)
 - Mii Gunner (Does not spawn in)
