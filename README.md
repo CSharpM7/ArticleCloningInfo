@@ -16,7 +16,7 @@
 - Cloud Bladebeam
 
 # Other Limitations
-- Ness/Lucas cannot use articles without original code
+
 
 # Misc
 
