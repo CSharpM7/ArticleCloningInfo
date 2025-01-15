@@ -1,4 +1,7 @@
-# Article Cloning Info
+# **ATTENTION**
+This repo will be removed soon in favor of a google sheet so others can easily contribute.
+Please use [this spreadsheet](https://docs.google.com/spreadsheets/d/16SEU3MibrzTJHTjxJb7c5e7JzGgrfWY_c_hqNJtGvNY/edit?usp=sharing) from now on
+
 
 ## Current Limitations
 
